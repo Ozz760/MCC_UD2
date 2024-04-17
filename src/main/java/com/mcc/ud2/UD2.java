@@ -3,7 +3,7 @@ package com.mcc.ud2;
 // <IMPORTS GO HERE>
 import java.util.Scanner;
 
-public class Main {
+public class UD2 {
 
     final static String bankName = "Bank of MiraCosta";
     static int netAmount = 0;
